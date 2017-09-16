@@ -3,7 +3,6 @@
 ## 架空読書会 is 何
 
 <blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">架空読書会とは――、<br>1.誰かが架空の書名を言う<br>2.全員その本を読んできたことにする<br>3.内容をでっちあげ自由に語る<br>4.先に他の人が語った内容を否定しない（例えば「田中が死ぬ場面で泣いた」と誰かが言えば、そういう場面があった前提で他の人も続ける）<br>5.一冊終えたら次の人の番</p>&mdash; 本ある暮らしの会 (@BooK_LieF0) <a href="https://twitter.com/BooK_LieF0/status/857523283855409152">2017年4月27日</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## このリポジトリは何ですか？
 
